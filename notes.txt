@@ -1,0 +1,15 @@
+To Do:
+Random Events:
+Shop: purchase items with gold
+HP station: can activate and refill HP with gold
+Wandering Trickster: ability to roll for a random item, HP, shield 
+bonus, or get damaged.
+
+Add an update to player stats when an enemy is defeated.
+
+Add text that displays what the enemy is doing so you have
+some kind of idea.
+
+Show the player their stats.
+
+The way the enemy damage is calculated is broken.
